@@ -9,8 +9,10 @@ Welcome to Test123's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
+   
+Hier komt code::
+	String s = "test"
+	_("Dit is een {hier}").format(hier=s)
 
 Indices and tables
 ==================
