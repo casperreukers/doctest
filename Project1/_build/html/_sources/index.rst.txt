@@ -22,7 +22,9 @@ Welcome to Test123's documentation!
 	String b = _("Dit is een {hier}").format(hier = s)
 .. py:method:: 
 	print b
-	
+
+Does this get translated?
+---------------------------	
 
 Indices and tables
 ==================
