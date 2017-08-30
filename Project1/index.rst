@@ -9,10 +9,20 @@ Welcome to Test123's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
-Hier komt code::
+	
+.. code:: python 
+
 	String s = "test"
-	_("Dit is een {hier}").format(hier=s)
+	String b = _("Dit is een {hier}").format(hier = s)
+	print b
+	
+.. py:attribute:: 
+	String s = "test"
+.. py:attribute:: 
+	String b = _("Dit is een {hier}").format(hier = s)
+.. py:method:: 
+	print b
+	
 
 Indices and tables
 ==================

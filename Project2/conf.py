@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# Test123 documentation build configuration file, created by
-# sphinx-quickstart on Wed Aug 30 11:04:49 2017.
+# Test1234 documentation build configuration file, created by
+# sphinx-quickstart on Wed Aug 30 14:27:21 2017.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Test123'
+project = 'Test1234'
 copyright = '2017, Casper'
 author = 'Casper'
 
@@ -64,7 +64,7 @@ release = ''
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = "Spanish"
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -115,7 +115,7 @@ html_sidebars = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Test123doc'
+htmlhelp_basename = 'Test1234doc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -142,7 +142,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Test123.tex', 'Test123 Documentation',
+    (master_doc, 'Test1234.tex', 'Test1234 Documentation',
      'Casper', 'manual'),
 ]
 
@@ -152,7 +152,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'test123', 'Test123 Documentation',
+    (master_doc, 'test1234', 'Test1234 Documentation',
      [author], 1)
 ]
 
@@ -163,8 +163,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Test123', 'Test123 Documentation',
-     author, 'Test123', 'One line description of project.',
+    (master_doc, 'Test1234', 'Test1234 Documentation',
+     author, 'Test1234', 'One line description of project.',
      'Miscellaneous'),
 ]
 
