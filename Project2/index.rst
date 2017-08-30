@@ -10,6 +10,8 @@ Welcome to Test1234's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+1. Word dit vertaald?
+2. Hopelijk dit ook
 
 
 Indices and tables
